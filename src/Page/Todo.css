@@ -1,0 +1,16 @@
+.btn_spacing{
+    margin: .2em;
+    padding: .2em;
+}
+.wt{
+    width: 92%;
+}
+.todocomplete{
+    text-decoration: line-through;
+    filter: blur(.7px);
+}
+.todo_title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

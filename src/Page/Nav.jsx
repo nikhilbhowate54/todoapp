@@ -11,17 +11,6 @@ const Nav = () => {
               home
             </NavLink>
           </li>
-          <li>
-            {" "}
-            <NavLink to={`about/${'nikhil'}`} activeStyle={{ color: "red" }}>
-              about
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="contact" activeStyle={{ color: "red" }}>
-              contact
-            </NavLink>
-          </li>
         </ul>
       </nav>
     </div>
